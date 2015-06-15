@@ -1,0 +1,11 @@
+UNIX FILE 
+
+cd: Change the working Directory.
+ls: Lists the directory contents.
+cp filename1 filename2 : Copies a file.
+rm filename : Removes a file.
+
+mkdir dirname : Make a new directory.
+cd dirname : Change directory.
+pwd : Tells where you currently are.
+ 

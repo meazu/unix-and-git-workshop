@@ -1,0 +1,22 @@
+GIT NOTES
+
+git inti <rep_name> : Initilalize a new repositiry <rep_name>.
+git add <file> : Adds any changes inside the file <file> to staging area.
+git commit -m <message> : Commits the staging area to the repository with a message <message>
+git status : List the filesyou hae changes and those you still need to add or commit.
+git log : logs all the changes
+git branch <branch_name> : Create  a new branch <branch_name>
+git checkout <branch_name> : Switch to branch <branch_name>
+git checkout -b <branch_name> : Create a new branch <branch_name> and switch to it.
+git branch -d <branch_name> : delete the branch <branch_name> feature.
+git branch : list all the branches.
+git merge <branch_name> : To merge different branch into your active branch.
+git remote -v : List all current configured remote repositories.
+git remote add origin <server> : Add the server to be able to push to it. Connecting a local repository to the remote server.
+git push : Push all branches to remote repository
+git push origin <branch_name> Push the branch to your remote repositiry, so others can use it.
+
+git pull : Fetch and merge changes on the remote server to your working directory.
+git diff : view all the merge conflicts.
+
+  
